@@ -1,0 +1,15 @@
+{
+  "name": "ourapp",
+  "version": "1.0.0",
+  "description": "Basic routing app w node",
+  "main": "index.js",
+  "scripts": {
+    "test": "app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
